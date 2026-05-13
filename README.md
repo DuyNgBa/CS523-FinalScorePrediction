@@ -9,7 +9,7 @@ Mô hình được sử dụng là **Linear Regression (Hồi quy tuyến tính)
 
 ```math
 \hat{y} = \beta_0 + \beta_1x
-
+```
 Trong đó:
 * x: điểm giữa kỳ
 * ŷ: điểm cuối kỳ dự đoán
