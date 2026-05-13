@@ -16,12 +16,12 @@ Trong đó:
 * β0: hệ số chặn
 * β1: hệ số của điểm giữa kỳ
 
-Mô hình dự đoán: 
+## Mô hình dự đoán: 
 Project sử dụng mô hình hồi quy tuyến tính:
 
 final_pred=β0 + β1 × midterm
 
-Các bước xử lý chính:
+## Các bước xử lý chính:
 
 * Đọc dữ liệu từ file Excel.
 * Làm sạch dữ liệu.
